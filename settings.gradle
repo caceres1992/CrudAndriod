@@ -1,0 +1,2 @@
+rootProject.name='CrudIdat'
+include ':app'
